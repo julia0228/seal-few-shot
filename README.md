@@ -7,7 +7,6 @@ augmentation procedure: unlabeled examples receive pseudo-labels from
 support-to-unlabeled similarity, high-confidence examples are selected, and
 their confidence scores are used when forming augmented class prototypes.
 
-The project was developed for the HKUST(GZ) Deep Learning course (Fall 2025).
 The implementation focuses on the standard 5-way miniImageNet benchmark.
 
 ## Method
